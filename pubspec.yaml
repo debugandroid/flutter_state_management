@@ -1,5 +1,7 @@
 name: flutter_state_management
 description: Flutter State Management and Data access  Demo.
+author: Pawan Kumar
+url: https://www.nplix.com/flutter-state-management-with-provider-and-changenotifier/
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
