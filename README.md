@@ -2,15 +2,9 @@
 
 Flutter State Management and Data access  Demo.
 
-## Getting Started
+## Documentation 
 
-This project is a starting point for a Flutter application.
+You can find the complete tutorial at nplix.com
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter State Management and Data access  Demo](https://www.nplix.com/flutter-state-management-with-provider-and-changenotifier/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
